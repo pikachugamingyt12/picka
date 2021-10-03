@@ -1,0 +1,5 @@
+{
+	"ip":"pikachu_gamingyt12.aternos.me",
+	"port": "18759",
+	"name": "pika_bot"
+}
